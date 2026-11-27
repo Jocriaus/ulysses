@@ -1,0 +1,18 @@
+- [Play in your browser](play/index.html ':ignore')
+- [Home](/)
+
+- **The Ulysses manual**
+  - [Introduction](/manual/README.md)
+  - [1. Godot for a backend developer](/manual/01-godot-for-backend-developers.md)
+  - [2. Getting around Godot](/manual/02-getting-around-godot.md)
+  - [3. Learning GDScript](/manual/03-learning-gdscript.md)
+  - [4. The architecture of Ulysses](/manual/04-architecture.md)
+  - [5. The boat and the core rules](/manual/05-boat-and-core-rules.md)
+  - [6. The spawn director](/manual/06-spawn-director.md)
+  - [7. Bosses](/manual/07-bosses.md)
+  - [8. UI, menus and progression](/manual/08-ui-and-progression.md)
+  - [9. Visuals](/manual/09-visuals.md)
+  - [10. Audio](/manual/10-audio.md)
+  - [11. Saving, phones and shipping](/manual/11-saving-and-mobile.md)
+  - [12. Testing and tooling](/manual/12-testing-and-tooling.md)
+  - [13. Where to go next](/manual/13-next-steps.md)
